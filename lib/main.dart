@@ -18,7 +18,13 @@ class MyApp extends StatelessWidget {
         ),
         body: Column(
           children: [
-            Image.network("")
+            Center( 
+              child: 
+                Image.network("https://www.bing.com/th/id/OIP.2zRCkDzffAtfdffvRipKNQHaFj?w=255&h=211&c=8&rs=1&qlt=90&o=6&cb=12&pid=3.1&rm=2", 
+                
+            )
+            )
+           
           ],
         ),
       ),
